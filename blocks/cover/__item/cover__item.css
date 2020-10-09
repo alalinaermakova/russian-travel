@@ -3,7 +3,7 @@
     min-height: 740px;
     max-width: 1184px;
     margin: auto;
-    background-image: url(../../pictures/cover-trains.jpg);
+    background-image: url(../../../pictures/cover-trains.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
