@@ -1,0 +1,23 @@
+.intro__list {
+    list-style-type: none;
+    padding-left: 0;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0;
+    margin-bottom: 102px;
+}
+
+@media screen and (max-width: 1023px) {
+    .intro__list {
+        margin-bottom: 96px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .intro__list {
+        margin-bottom: 64px;
+    }
+}
