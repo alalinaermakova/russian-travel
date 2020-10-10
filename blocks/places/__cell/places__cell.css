@@ -14,19 +14,26 @@
     .places__cell {
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
-        width: 95%;
     }
 }
 
 @media screen and (max-width: 767px) {
     .places__cell {
         grid-template-columns: 320px 1fr;
-        gap: 48px 28px;
-        width: 97%;
+        width: 96%;
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 630px) {
+    .places__cell {
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 400px) {
     .places__cell {
         display: flex;
         flex-direction: column;

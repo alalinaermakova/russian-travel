@@ -1,14 +1,14 @@
 .places__website-link {
-    font-family: Inter;
+    font-family: "Inter", "Arial ", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
-    transition: opacity 0.3s linear 0s;
+    transition: opacity 0.5s linear 0s;
 }
 
 .places__website-link:hover {
-    opacity: 0.6;
+    opacity: 0.8;
 }

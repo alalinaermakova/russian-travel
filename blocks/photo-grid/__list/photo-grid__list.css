@@ -6,18 +6,9 @@
     padding-left: 0;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1184px) {
     .photo-grid__list {
         gap: 14px;
-        padding-left: 24px;
-        padding-right: 24px;
-    }
-}
-
-@media screen and (max-width: 767px) {
-    .photo-grid__list {
-        gap: 14px;
-        padding-left: 16px;
-        padding-right: 16px;
+    
     }
 }
