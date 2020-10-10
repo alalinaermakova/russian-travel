@@ -17,5 +17,5 @@
  Сделать сайт более интерактивным, воплотить переключение на английский язык.
 
 ===========================
-* [Ссылка на проект] (https://alalinaermakova.github.io/russian-travel/index.html)
+* [Ссылка на проект](https://alalinaermakova.github.io/russian-travel/index.html)
 
