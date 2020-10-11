@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 680px) {
     .places__cell {
         display: flex;
         flex-direction: column;
@@ -35,9 +35,7 @@
 
 @media screen and (max-width: 400px) {
     .places__cell {
-        display: flex;
-        flex-direction: column;
-        margin: auto;
         width: 100%;
+        margin-bottom: 48px;
     }
 }
