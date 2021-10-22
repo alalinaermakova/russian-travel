@@ -1,21 +1,20 @@
-# Проект 3: Путешествие по России
+# Project 3: Traveling in Russia
 
-### 
-* Проект использующий grid layout
-* Адаптивная верстка на 4 разрешения экранов
-* Образовательный проект с полезными ресурсами
+###
+* Project using grid layout
+* Responsive layout for 4 screen resolutions
+* Educational project with helpful resources
 
-**Интро**
+** Intro **
 
-Проект посвященный путешествию по России, в блоке lead карта маршрута, в блоке grid собраны изображения красот наших широт, в places краткие рассказы про различный места от Куршской косы до Алтая, блок cover с переходом на сайт, и footer с полной навигацией.
+A project dedicated to traveling around Russia, in the lead block the route map, in the grid block there are images of the beauties of our latitudes, in places there are short stories about different places from the Curonian Spit to Altai, a cover block with a transition to the site, and a footer with full navigation.
 
-**Figma**
+** Figma **
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+* [Link to layout in Figma] (https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
 
-**Улучшения**
- Сделать сайт более интерактивным, воплотить переключение на английский язык.
+** Improvements **
+ Make the site more interactive, implement the switch to English.
 
-===========================
-* [Ссылка на проект](https://alalinaermakova.github.io/russian-travel/index.html)
-
+============================
+* [Link to the project] (https://alalinaermakova.github.io/russian-travel/)
