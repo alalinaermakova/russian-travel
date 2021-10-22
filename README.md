@@ -17,4 +17,5 @@ A project dedicated to traveling around Russia, in the lead block the route map,
  Make the site more interactive, implement the switch to English.
 
 ============================
+
  [Link to the project](https://alalinaermakova.github.io/russian-travel/)
